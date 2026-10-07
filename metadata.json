@@ -1,0 +1,6 @@
+{
+  "name": "Assistant Pré-Audit RGAA",
+  "description": "Plateforme professionnelle d'assistance au pré-audit d'accessibilité numérique basée sur le RGAA 4.1.2 et Playwright.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
